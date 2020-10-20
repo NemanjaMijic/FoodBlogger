@@ -1,0 +1,49 @@
+@mixin card-setting() {
+    font-size: 9px;
+    //line-height: 5px;
+    width: 18vh;
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    margin:10px;
+    box-shadow: 2px 2px 10px black;
+    transition: .6s;
+    &:hover {
+        box-shadow: 4px 4px 20px black;
+        transition: .4s;
+        background: rgb(212, 208, 208);
+    }
+}
+
+@mixin orange-button() {
+    background-color: rgb(252, 98, 42);
+    border-color: rgb(252, 98, 42);
+    border-radius: 60px;
+    color: white;
+    font-family: lato-regular;
+    &:hover {
+        background-color: orangered;
+    }
+}
+
+@mixin relative-position($top, $right, $bottom, $left){
+    position: relative;
+    top: $top;
+    right: $right;
+    bottom: $bottom;
+    left: $left;
+}
+
+@mixin fix-big() {
+    padding-left: 29vh;
+    padding-right: 29vh;
+    margin-left: 0vh;
+    margin-right: 0vh;
+}
+
+@mixin fix-small() {
+    margin-left: 0vh !important;
+    margin-right: 0vh !important;
+    padding-left: 3vh !important;
+    padding-right: 3vh !important;
+}

@@ -1,0 +1,123 @@
+{
+	"recipes" : [
+		
+		{
+			"name": "Baked Chicken Schnitzel",
+			"imgCard" : "/img/baked-chicken-schnitzel.jpg",
+			"imgBack" : "/img/baked-chicken-schnitzel.png",
+			"preparation": "Preheat oven to 425 degrees F (220 degrees C). Line a large baking sheet with aluminum foil and drizzle olive oil over foil. Place baking sheet in preheated oven. Flatten chicken breasts so they are all about 1/4-inch thick. Season chicken with salt and pepper. Mix flour and paprika together on a large plate. Beat eggs with salt and pepper in a shallow bowl. Mix bread crumbs and lemon zest together on a separate large plate. Dredge each chicken piece in flour mixture, then egg, and then bread crumbs mixture and set aside in 1 layer on a clean plate. Repeat with remaining chicken. Remove baking sheet from oven and arrange chicken in 1 layer on the sheet. Drizzle more olive oil over each piece of coated chicken. Bake in the preheated oven for 5 to 6 minutes. Flip chicken and continue baking until no longer pink in the center and the breading is lightly browned, 5 to 6 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+			"ingridients": ["1 tablespoon olive oil", 
+							"6 chicken breasts", 
+							"salt and black pepper", 
+							"3/4 cup all-purpose flour"]
+		},
+		{
+			"name": "Greek Scrambled Eggs",
+			"imgCard" : "/img/greek-scrambled-eggs.jpg",
+			"imgBack" : "/img/greek-scrambled-eggs.png",
+			"preparation": "Heat butter in a skillet over medium-high heat. Beat eggs and water together, then pour into pan. Add feta cheese, and cook, stirring occasionally to scramble. Season with salt and pepper.",
+			"ingridients": ["1 tablespoon butter", 
+							"3 eggs", 
+							"1 teaspoon water", 
+							"1/2 cup crumbled feta cheese",
+							"salt and pepper to taste"]
+		},
+		{
+			"name": "Blueberry Fruit Salad",
+			"imgCard" : "/img/red-white-and-blueberry-fruit-salad.jpg",
+			"imgBack" : "/img/red-white-and-blueberry-fruit-salad.png",
+			"preparation": "Mix the strawberries and blueberries together in a bowl, sprinkle with sugar and lemon juice, and toss lightly. Refrigerate until cold, at least 30 minutes. About 30 minutes before serving, cut the bananas into 3/4-inch thick slices, and toss with the berries.",
+			"ingridients": ["1 pint strawberries, hulled and quarted", 
+							"1 pint blueberries", 
+							"1 teaspoon water", 
+							"2 tablespoon lemon juice",
+							"4 bananas"]
+		},
+		{
+			"name": "Baked Chicken Schnitzel",
+			"imgCard" : "/img/baked-chicken-schnitzel.jpg",
+			"imgBack" : "/img/baked-chicken-schnitzel.png",
+			"preparation": "Preheat oven to 425 degrees F (220 degrees C). Line a large baking sheet with aluminum foil and drizzle olive oil over foil. Place baking sheet in preheated oven. Flatten chicken breasts so they are all about 1/4-inch thick. Season chicken with salt and pepper. Mix flour and paprika together on a large plate. Beat eggs with salt and pepper in a shallow bowl. Mix bread crumbs and lemon zest together on a separate large plate. Dredge each chicken piece in flour mixture, then egg, and then bread crumbs mixture and set aside in 1 layer on a clean plate. Repeat with remaining chicken. Remove baking sheet from oven and arrange chicken in 1 layer on the sheet. Drizzle more olive oil over each piece of coated chicken. Bake in the preheated oven for 5 to 6 minutes. Flip chicken and continue baking until no longer pink in the center and the breading is lightly browned, 5 to 6 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+			"ingridients": ["1 tablespoon olive oil", 
+							"6 chicken breasts", 
+							"salt and black pepper", 
+							"3/4 cup all-purpose flour"]
+		},
+		{
+			"name": "Greek Scrambled Eggs",
+			"imgCard" : "/img/greek-scrambled-eggs.jpg",
+			"imgBack" : "/img/greek-scrambled-eggs.png",
+			"preparation": "Heat butter in a skillet over medium-high heat. Beat eggs and water together, then pour into pan. Add feta cheese, and cook, stirring occasionally to scramble. Season with salt and pepper.",
+			"ingridients": ["1 tablespoon butter", 
+							"3 eggs", 
+							"1 teaspoon water", 
+							"1/2 cup crumbled feta cheese",
+							"salt and pepper to taste"]
+		},
+		{
+			"name": "Blueberry Fruit Salad",
+			"imgCard" : "/img/red-white-and-blueberry-fruit-salad.jpg",
+			"imgBack" : "/img/red-white-and-blueberry-fruit-salad.png",
+			"preparation": "Mix the strawberries and blueberries together in a bowl, sprinkle with sugar and lemon juice, and toss lightly. Refrigerate until cold, at least 30 minutes. About 30 minutes before serving, cut the bananas into 3/4-inch thick slices, and toss with the berries.",
+			"ingridients": ["1 pint strawberries, hulled and quarted", 
+							"1 pint blueberries", 
+							"1 teaspoon water", 
+							"2 tablespoon lemon juice",
+							"4 bananas"]
+		},
+		{
+			"name": "Baked Chicken Schnitzel",
+			"imgCard" : "/img/baked-chicken-schnitzel.jpg",
+			"imgBack" : "/img/baked-chicken-schnitzel.png",
+			"preparation": "Preheat oven to 425 degrees F (220 degrees C). Line a large baking sheet with aluminum foil and drizzle olive oil over foil. Place baking sheet in preheated oven. Flatten chicken breasts so they are all about 1/4-inch thick. Season chicken with salt and pepper. Mix flour and paprika together on a large plate. Beat eggs with salt and pepper in a shallow bowl. Mix bread crumbs and lemon zest together on a separate large plate. Dredge each chicken piece in flour mixture, then egg, and then bread crumbs mixture and set aside in 1 layer on a clean plate. Repeat with remaining chicken. Remove baking sheet from oven and arrange chicken in 1 layer on the sheet. Drizzle more olive oil over each piece of coated chicken. Bake in the preheated oven for 5 to 6 minutes. Flip chicken and continue baking until no longer pink in the center and the breading is lightly browned, 5 to 6 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+			"ingridients": ["1 tablespoon olive oil", 
+							"6 chicken breasts", 
+							"salt and black pepper", 
+							"3/4 cup all-purpose flour"]
+		},
+		{
+			"name": "Greek Scrambled Eggs",
+			"imgCard" : "/img/greek-scrambled-eggs.jpg",
+			"imgBack" : "/img/greek-scrambled-eggs.png",
+			"preparation": "Heat butter in a skillet over medium-high heat. Beat eggs and water together, then pour into pan. Add feta cheese, and cook, stirring occasionally to scramble. Season with salt and pepper.",
+			"ingridients": ["1 tablespoon butter", 
+							"3 eggs", 
+							"1 teaspoon water", 
+							"1/2 cup crumbled feta cheese",
+							"salt and pepper to taste"]
+		},
+		{
+			"name": "Blueberry Fruit Salad",
+			"imgCard" : "/img/red-white-and-blueberry-fruit-salad.jpg",
+			"imgBack" : "/img/red-white-and-blueberry-fruit-salad.png",
+			"preparation": "Mix the strawberries and blueberries together in a bowl, sprinkle with sugar and lemon juice, and toss lightly. Refrigerate until cold, at least 30 minutes. About 30 minutes before serving, cut the bananas into 3/4-inch thick slices, and toss with the berries.",
+			"ingridients": ["1 pint strawberries, hulled and quarted", 
+							"1 pint blueberries", 
+							"1 teaspoon water", 
+							"2 tablespoon lemon juice",
+							"4 bananas"]
+		}
+
+	],
+	"sponsors": [
+		{
+			"img" : "../img/sponsors/1.png"
+		},
+		{
+			"img" : "../img/sponsors/2.png"
+		},
+		{
+			"img" : "../img/sponsors/3.png"
+		},
+		{
+			"img" : "../img/sponsors/4.png"
+		},
+		{
+			"img" : "../img/sponsors/5.png"
+		},
+		{
+			"img" : "../img/sponsors/4.png"
+		}
+		
+	]
+}

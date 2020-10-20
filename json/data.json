@@ -1,0 +1,52 @@
+{
+	
+	"users": [
+
+		{
+			"id":"1",
+			"name" : "Marko Markovic",
+			"address" : "Novi Sad, Serbia",
+			"avatar_icon" : "/img/avatar1.png",
+			"text" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero praesentium ad, nulla ab laudantium tenetur facilis exercitationem voluptatem reiciendis dolor dolore debitis ipsam sunt ullam nesciunt optio corporis totam. Voluptates!"
+		},
+		{
+			"id":"2",
+			"name" : "Arnold Schwarz",
+			"address" : "Berlin, Germany",
+			"avatar_icon" : "/img/avatar2.png",
+			"text" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam tenetur nemo laboriosam dicta ipsam et excepturi numquam quia, error nisi odit. Expedita amet officiis non magni? Dignissimos ea illo error?"
+		},
+		{
+			"id":"3",
+			"name" : "Chang Li",
+			"address" : "Beijing, China",
+			"avatar_icon" : "/img/avatar3.png",
+			"text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, numquam accusantium. Vero commodi a enim. Aperiam modi molestiae quaerat facere sunt nihil quidem quos illo, esse distinctio, veritatis deleniti tempore."
+		}
+
+
+	],
+
+	"meals": [
+		{
+			"id": "breakfast",
+			"h2": "Our best Breakfast recipes",
+			"descIntro": "Breakfast is the most important meal of the day. Choose from homemade waffles, granola, corned beef hash, pancakes, omelets or cinnamon buns.",
+			"descMain": "Jump start your day with these top-rated breakafast recipes. Whether it's something savory or a little sweet, we've got you covered with this nourishing round up."
+		},
+		{
+			"id": "lunch",
+			"h2": "Our best Lunch recipes",
+			"descIntro": "Lunch, the abbreviation for luncheon, is a meal eaten around midday. Choose from homemade waffles, granola, corned beef hash, pancakes, omelets or cinnamon buns.",
+			"descMain": "Jump start your day with these top-rated lunch recipes. Whether it's something savory or a little sweet, we've got you covered with this nourishing round up."
+		},
+		{
+			"id": "dinner",
+			"h2": "Our best Dinner recipes",
+			"descIntro": "Discover dinner recipes in almost every category imaginable. You can choose from chicken recipes, casserole recipes, veggie side dishes, salads and oh-so-many more delectable dinner recipes.",
+			"descMain": "Take this opportunity to expand your repertoire with this collection of great dinner recipes, from fast and simple to Healthy Living, entertaining ideas or cheesy comfort foods. No matter which dinner recipes you are searching for."	
+		}
+	]
+
+	
+}

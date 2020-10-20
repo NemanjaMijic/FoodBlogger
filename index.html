@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>foodblogger</title>
+    <link rel="stylesheet" href="./dist/index.css">
+    <script type="text/javascript" src="./dist/jquery-3.4.1.min.js"></script>
+    <script src="./dist/main.js"></script>
+    <script src="./dist/cards.js"></script>
+    <script src="./dist/popup.js"></script>
+</head>
+
+<body>
+    <div id="divpopup" style="display: none;"></div>
+    <nav>
+        <div class="logo-div">
+            <img src="/img/chef_hat.png" alt="logo">
+            <h1>FoodBlogger</h1>
+        </div>   
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Chef Inspiration</a></li>
+            <li><a href="/index.html#recipe-header">Recipes</a></li>
+            <li><a href="/index.html#contact-div">Contact</a></li>
+        </ul>      
+        <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+    </nav>
+    <div class="background-color">
+        <div class="dummy">
+            <main>
+                <section class="introduction">
+                    <h1>It's time for Cooking!</h1>
+                    <p>Do you want get something delicious, special and healthy? 
+                        We are sincerely for your service. Welcome your arrival.
+                    </p>
+                    <button class="recipe-button">Go to Recipes</button>
+                </section>
+                <section class="background-image">
+                    <img src="/img/background.png" alt="background.png">
+                </section>
+            </main>
+        </div> 
+    </div>
+    <div class="dummy2">
+        <section class="meals">
+            <h1>We offer you Best & Delicious food</h1>
+            <p>Creative social proof finders paradigm shift strategy innovator</p>
+        </section>
+        <div class="tabs-general">
+            <div class="tabs">
+                <button class="tab-button" id="breakfast">1. Breakfast</button>
+                <button class="tab-button" id="lunch">2. Lunch</button>
+                <button class="tab-button" id="dinner">3. Dinner</button>
+            </div>
+            <div class="div-lines">
+                <div id="breakfast-underline"></div>
+                <div id="lunch-underline"></div>
+                <div id="dinner-underline"></div>
+            </div>
+        </div>
+        <section id="meal-description">
+            <div id="content">
+                <h1 id="json-h1"></h1>
+                <p id="json-desc-intro"></p>
+                <p id="json-desc-main"></p>
+                <button class="recipe-button">Go to recipes</button>
+            </div>
+            <img id="meal-picture" src="/img/temp.png" alt="background">
+        </section>
+        
+        <h1 id="user-head">What Our Users Say</h1>
+        <section class="testemonial-carousel"></section>
+        <div class="button">
+            <a class="testimonial-button" id="left-arrow">&#10094</a>
+            <a class="testimonial-button" id="right-arrow">&#10095</a>
+        </div>
+        <h1 id="recipe-header">Our latest recipes</h1>
+       <div class="show-all-cards"><a id="linkic">Click to show all recipes</a></div>
+        <div class="card-container">
+            <section id="cards"></section>
+        </div>
+        <article id="popular-recipe"> 
+            <section id="popular-recipe-text">
+                <p id="head-text">popular this week</p>
+                <h1 id="popular-recipe-name"></h1>
+                <h4>Ingridients</h4>
+                <ul id="popular-recipe-ingridients"></ul>
+                <button id='popular-recipe-button'>Read full recipe</button>
+                <!--   Modal   -->
+                <div class="bg-modal">
+                    <div class="modal-content">
+                        <h1 id="modal-h1">Neki naslov recepta</h1>
+                        <p>(No css, only quick demo)</p>
+                        <h4>Preparation</h4>
+                        <p id="modal-p"></p>
+                        <span class="close">+</span>
+                    </div>                
+                </div>
+            </section>
+        </article>
+        <section id="sponsors">
+            <aside>
+                <form id="newsletter" action="/action-page.html">
+                    <h4>Subscribe to ours Newsletters</h4><br>
+                    <input type="text" id="fname" name="fname" value="Email address">
+                    <input type="submit" value="Submit"><br>
+                    <p>We will not share your information with anyone</p>
+                  </form> 
+            </aside>
+        </section>
+        
+    </div>
+    <footer>
+        <section id="footer-left-side">
+            <div id="logo-footer">
+                <img src="/img/chef_hat.png" alt="logo.png">
+                <span>&nbspFood<b>Blogger</b></span>
+            </div>
+            <div id="lorem-text">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo quia, 
+                    saepe reprehenderit ex quos nihil dolor delectus facilis quis? Corrupti, aspernatur? 
+                    Temporibus amet odit rem corrupti saepe itaque nostrum a.
+                </p>
+            </div>
+            <div id="contact-div">
+                <p><b>T:</b>&nbsp(+61) 979 185 942</p>
+                <p><b>E:</b>&nbspcontact@foodblogger.com</p>
+            </div>
+        </section>
+        <section id="footer-right-side">
+            <div id="footer-recipes">
+                <h3>Popular Recipes</h3>
+                <ul class="recipe-links"></ul>
+            </div>
+            <div id="footer-links">
+                <h3>Usefull Links</h3>
+                <div class="lista">
+                    <a href="#">Home</a>
+                    <a href="#">Chef Inspiration</a>
+                    <a href="/index.html#recipe-header">Recipes</a>
+                    <a href="/index.html#contact-div">Contact</a>
+                </div>
+            </div>
+        </section>
+    </footer>
+    <div class="copyright">
+        <p>&#9400 Copyright 2019 FoodBlogger. All right reserved.</p>
+    </div>
+</body>
+</html>
+
